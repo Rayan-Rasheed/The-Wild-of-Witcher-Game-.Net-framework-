@@ -1,0 +1,9 @@
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\GameFrameWork.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\GameFrameWork.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.csproj.AssemblyReference.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.csproj.CoreCompileInputs.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\EZInput.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\EZInput.xml
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.csproj.CopyComplete

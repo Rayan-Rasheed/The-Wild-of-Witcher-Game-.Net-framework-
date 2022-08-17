@@ -1,0 +1,83 @@
+E:\NewGAme\NewGAme\bin\Debug\NewGAme.exe.config
+E:\NewGAme\NewGAme\bin\Debug\NewGAme.exe
+E:\NewGAme\NewGAme\bin\Debug\NewGAme.pdb
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.AssemblyReference.cache
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.GameForm.resources
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.Properties.Resources.resources
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.GenerateResource.cache
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CoreCompileInputs.cache
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.exe
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.pdb
+E:\NewGAme\NewGAme\bin\Debug\EZInput.dll
+E:\NewGAme\NewGAme\bin\Debug\EZInput.xml
+E:\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CopyComplete
+E:\NewBackup\NewGAme\NewGAme\bin\Debug\NewGAme.exe.config
+E:\NewBackup\NewGAme\NewGAme\bin\Debug\NewGAme.exe
+E:\NewBackup\NewGAme\NewGAme\bin\Debug\NewGAme.pdb
+E:\NewBackup\NewGAme\NewGAme\bin\Debug\EZInput.dll
+E:\NewBackup\NewGAme\NewGAme\bin\Debug\EZInput.xml
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.AssemblyReference.cache
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.GameForm.resources
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.Properties.Resources.resources
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.GenerateResource.cache
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CoreCompileInputs.cache
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CopyComplete
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.exe
+E:\NewBackup\NewGAme\NewGAme\obj\Debug\NewGAme.pdb
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.AssemblyReference.cache
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.GameForm.resources
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.Properties.Resources.resources
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.GenerateResource.cache
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CoreCompileInputs.cache
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.exe
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.pdb
+E:\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\NewGAme.exe.config
+E:\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\NewGAme.exe
+E:\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\NewGAme.pdb
+E:\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\EZInput.dll
+E:\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\EZInput.xml
+E:\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CopyComplete
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\NewGAme.exe.config
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\NewGAme.exe
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\NewGAme.pdb
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\EZInput.dll
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\bin\Debug\EZInput.xml
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.AssemblyReference.cache
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.GameForm.resources
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.Properties.Resources.resources
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.GenerateResource.cache
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CoreCompileInputs.cache
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CopyComplete
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.exe
+E:\spare\NewBackup - Copy\NewGAme\NewGAme\obj\Debug\NewGAme.pdb
+E:\spare\NewGAme\NewGAme\NewGAme\bin\Debug\NewGAme.exe.config
+E:\spare\NewGAme\NewGAme\NewGAme\bin\Debug\NewGAme.exe
+E:\spare\NewGAme\NewGAme\NewGAme\bin\Debug\NewGAme.pdb
+E:\spare\NewGAme\NewGAme\NewGAme\bin\Debug\EZInput.dll
+E:\spare\NewGAme\NewGAme\NewGAme\bin\Debug\EZInput.xml
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.AssemblyReference.cache
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.GameForm.resources
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.Properties.Resources.resources
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.GenerateResource.cache
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CoreCompileInputs.cache
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CopyComplete
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.exe
+E:\spare\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\NewGAme.exe.config
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\NewGAme.exe
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\NewGAme.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\EZInput.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\EZInput.xml
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.AssemblyReference.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.GameForm.resources
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.Properties.Resources.resources
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.GenerateResource.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CoreCompileInputs.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.csproj.CopyComplete
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.exe
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\GameFrameWork.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\bin\Debug\GameFrameWork.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.StartingGame.resources
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.winner.resources
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\NewGAme\obj\Debug\NewGAme.Level2.resources

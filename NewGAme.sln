@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGAme", "NewGAme\NewGAme.csproj", "{6161B591-F26C-469B-87EF-7291D76A6C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFrameWork", "GameFrameWork\GameFrameWork.csproj", "{92725019-D5DD-464B-AC72-9FBFBB60243D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6161B591-F26C-469B-87EF-7291D76A6C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6161B591-F26C-469B-87EF-7291D76A6C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6161B591-F26C-469B-87EF-7291D76A6C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6161B591-F26C-469B-87EF-7291D76A6C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92725019-D5DD-464B-AC72-9FBFBB60243D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92725019-D5DD-464B-AC72-9FBFBB60243D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92725019-D5DD-464B-AC72-9FBFBB60243D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92725019-D5DD-464B-AC72-9FBFBB60243D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F08C32-A62F-4742-A304-4EA3606407E4}
+	EndGlobalSection
+EndGlobal
